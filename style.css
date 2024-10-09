@@ -84,7 +84,7 @@ a.projectLink::before, a.email::before {
     width: 100%;
     bottom: 0;
     left: 0;
-    background-color: #59382B;
+    background-color: #248082;
     transform-origin: right;
     transform: scaleX(0);
     transition: transform .4s ease-in-out;
