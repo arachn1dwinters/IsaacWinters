@@ -46,6 +46,7 @@ div#nav {
 div#nav > h2 > a {
     text-decoration: none;
     color: #D5E5D5;
+    scroll-behavior: smooth;
 }
 
 div#nav > h2 {
